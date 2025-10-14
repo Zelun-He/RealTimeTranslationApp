@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.TranslatorApp" parent="android:Theme.Material.Light.NoActionBar">
+        <!-- Set the splash/launch screen to black to match your app background -->
+        <item name="android:windowBackground">@android:color/black</item>
+        <!-- Hide the status bar during launch -->
+        <item name="android:windowFullscreen">true</item>
+    </style>
+</resources>
+
